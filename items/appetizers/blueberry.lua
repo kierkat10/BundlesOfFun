@@ -1,5 +1,5 @@
 -- SMODS.Joker {
---     key = "blueberry",
+--     key = "a_blueberry",
 --     name = "Blueberry",
 --     config = {
 --         extra = {

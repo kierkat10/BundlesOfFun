@@ -1,5 +1,5 @@
 -- SMODS.Joker {
---     key = "grapes",
+--     key = "a_grapes",
 --     name = "Grapes",
 --     config = {
 --         extra = {

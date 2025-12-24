@@ -1,5 +1,5 @@
 SMODS.Joker {
-    key = "wondrous_bread",
+    key = "a_wondrous_bread",
     name = "Wondrous Bread",
     config = {
         extra = {

@@ -1,5 +1,5 @@
 -- SMODS.Joker {
---     key = "jelly_beans",
+--     key = "a_jelly_beans",
 --     name = "Jelly Beans",
 --     config = {
 --         extra = {
